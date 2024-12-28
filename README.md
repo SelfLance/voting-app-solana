@@ -92,3 +92,6 @@ Build the web app
 ```shell
 pnpm build
 ```
+
+# Commands of Solana Now
+  solana-test-validator // Run solana validator locally
